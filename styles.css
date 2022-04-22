@@ -1,4 +1,8 @@
 /* styles.css */
+* {
+    color: olivedrab;
+    background-color: black;
+}
 
 div {
     color:white;
